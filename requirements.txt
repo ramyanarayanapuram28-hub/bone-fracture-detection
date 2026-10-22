@@ -1,0 +1,12 @@
+
+  
+streamlit==1.66.0
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+scikit-image
+Pillow
+joblib
+ultralytics
